@@ -1,0 +1,184 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Nunito', sans-serif;
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Ubuntu', sans-seri
+}
+
+.banner {
+    position: relative;
+    width: 100%;
+    margin: 0 auto;
+
+
+}
+
+.main-heading {
+    position: absolute;
+    color: #f50355;
+    top: 35%;
+    text-align: center;
+    font-size: 3rem;
+    font-weight: 700;
+    margin-left: 45%;
+}
+
+
+.banner img {
+    width: 100%;
+}
+
+.banner p {
+    position: absolute;
+    top: 53%;
+    border: 2px solid green;
+    border-radius: 5px;
+    width: 50%;
+    color: black;
+    background-color: bisque;
+    font-weight: 700;
+    text-align: center;
+    margin-left: 40%;
+
+
+}
+
+.banner h2 {
+    position: absolute;
+    top: 45%;
+    color: yellow;
+    margin-left: 55%;
+    font-size: 2.5rem;
+}
+
+.banner a {
+    display: block;
+    position: absolute;
+    top: 69%;
+    margin-left: 60%;
+    border: 2px solid yellow;
+    text-decoration: none;
+    padding: 10px 30px;
+    border-radius: 5px;
+    background-image: linear-gradient(Orange, tomato, green);
+    color: whitesmoke
+}
+
+.donation-heading {
+    text-align: center;
+    font-size: 3rem;
+    font-weight: 700;
+    margin-bottom: o;
+}
+
+.donation-article {
+    width: 30%;
+    margin-left: 35%;
+    margin-top: 0;
+}
+
+.amount {
+    display: flex;
+    padding: 40px 50px;
+
+
+}
+
+.donate-amount {
+    margin-left: 12%;
+    padding: 20px 40px;
+    box-shadow: gray;
+
+    box-shadow: 10px 20px 15px;
+}
+
+.main-amount {
+    background-color: aqua;
+    border-radius: 5px;
+    border: 2px solid tomato;
+}
+
+.select-amount {
+    text-align: center;
+}
+
+.select-amount a {
+    text-decoration: none;
+    color: whitesmoke;
+    background-image: linear-gradient(aqua, tomato);
+    padding: 10px 25px;
+    margin-bottom: 20px;
+
+}
+
+.donation-plan {
+    text-align: center;
+
+}
+
+.donation-plan h1 {
+    font-size: 3rem;
+    color: blueviolet
+}
+
+.donation-plan p {
+    width: 40%;
+    margin-left: 32%;
+}
+
+.donation-system {
+    display: flex;
+}
+
+.system-type {
+    margin: 10px 20px;
+    width: 33%;
+    border-radius: 5px;
+    box-shadow: 10px 15px 10px;
+}
+
+.system1 {
+    background-color: slategrey;
+}
+
+.system2 {
+    background-color: bisque;
+
+}
+
+.system3 {
+    background-color: rgb(5, 109, 109);
+}
+
+.survive-section {
+    display: flex;
+}
+
+.help-people {
+    width: 50%;
+    margin-left: 10%;
+}
+
+.help-people a {
+    text-decoration: none;
+    padding: 10px 30px;
+    border: 3px solid greenyellow;
+    border-radius: 5px;
+    margin-top: 20px;
+    background-image: linear-gradient(Orange, aqua);
+}
+
+footer {
+    background-color: black;
+    color: whitesmoke;
+    padding: 20px 50px;
+    text-align: center;
+
+}
+
+footer h1 {
+    font-style: italic;
+    font-family: cursive;
+    margin-top: 10px;
+}
